@@ -1,0 +1,30 @@
+.parallax {
+    background-image:url("https://lh3.googleusercontent.com/zgYYRHnX6PFnxLDF_KQwDIOigKAenid-uNXHFQmGEk1KGSha0o7futgtXL0ujhhhzCH96UPTdflIAhQ9HfJnEXSmzcDA-Y9c_lx4lTbiL9fVAvZotYlzaRThE00F1HgYLgEPUvZGCBmA4kAgQgxO8nNezEkU1MWaz07PjdfI2uV-C2b7XBMSb8hYEKnUso2FDgjtw7gmwxqrgiCm--LhAlRqMjXYAdjv0baFa-HjqA2_fZ8QrYEPU2VDz3g9ihIoRQgT_YqbT0112M_xMP-Iebm56bzVKYkO8lYDe4kpygfDo7GObjSp9e_TRTTQ51yU8hwtdN5CWZPiUaRcrxecz0qmUjWHPae_icAlIxTyHZFETudWuR3fy5hmd7K23yLdcYRWbola4T88IK2drOFlYGS33ZcpzIsj4e86RB9FufM6MTg09YiAmcx--pAtrhqQ2HLyxJM7MQLEKJFcX-IDg9yAosoWMbxgL5ZeNs9BhfDeAiQX50G7Y2c22F6P-awSqKOme8fZIaTwCcOFiT0jTlUZZZrolFPBsbycoqBZ_lhKzkhH94fLAWdCvIUu7OC46D4ZxrtRYilwyf1vTINRdoKz0gpWQoem29qRFH964hpwU4VZ9Ju0t1OgbjLq_q_YBilF3WN1gBbxvrVMgzEFfluB8Qp6K0ScpfalSWelcwiTlEzjPKucXD1zoZrT2z1LXy2p1HBC_cX0_A_Cd6PVM5-62A=w1171-h657-no?authuser=0");
+    background-attachment:fixed;
+    background-position:Fixed;
+    background-size: cover;
+    min-height:2000px;
+    background-repeat: no-repeat;
+    width: auto;
+    background-color: hsl(50, 60, 50);
+}
+.parallax1 {
+    background-image:url("https://lh3.googleusercontent.com/qT88teVQ6W8NB3UzJBdIh1OOq6SvpV1QL9DZZ5Ivmy1EevdMYbj6c84DLHtaBuJRyyxF2UlyNi_qXE9l6Jy6fvOOP81NYM342XSHfxk9dFxmaU2nwjNmKqCnK4h-Jg9qhi6u-VAey2POXRZCZOBu8aQarxmFA0rodDQuYzWsPFZyP3PpbwFwnIqkMvjP3FLUfuA8fCACaoq3PZxT7_KiMrxI1EH-Hw73QAYQZeQEY3lrS8350KAXv7ies8Ys3U25_BPVN9ezP37azsTWj3BPh2A0lmd7YFLt9SREHG6ywI8EsW0ehGIjWKhAhM1Pciq_j0s0-bGV0ZvwAUGJSA-PRsmd9D_JJEUzrnGE65TGtxvE2BQPrj3kPFgDEAh_HqGvhm3pu0H4paUlbtn5Y3CFp2zh2i84sUWLx6ASa8l41oinUQM0Ii437fDZk4Zbajp_m0Z5ZfduYT0mUO3nX9HgzfiSI_CHgMBekqEB6atQ22v0RAZTnI22HwJDc8zpSeiQMBETE7-HSNQbEZ9n7oqyOhlIZVn34vofuneDg9PXPmHAiozBicusl9tKASihJ9VkBOVXEAZJSUCD9A87A8RS1a-dODXr2a7Iap08EhrZluWMpt7RjN5qWVkdOPFH_FowmqUHRvjLMsDAhhesXXf71kLGd6yJJpjnZrEHdF0waRnoP4DM93G8QtejookN7kTJFFOcSR9OAQ4GhPDH7qMDG73rDQ=w1171-h657-no?authuser=0") ;
+    background-attachment:fixed;
+    background-position:Fixed;
+    background-size: cover;
+    min-height:1500px;
+    background-repeat: no-repeat;
+}
+.gandi {
+    text-align: center;
+    font-style: italic;
+    font-size: xx-large;
+}
+.gandi1 {
+    text-align: center;
+    font-style: italic;
+    font-size: xx-large;
+}
+
+}
